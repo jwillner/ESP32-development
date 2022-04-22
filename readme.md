@@ -9,7 +9,7 @@ https://randomnerdtutorials.com/projects-esp32/.
 
 Debugging with ESP32-Prog 
 --------
-How to use the PlatformIO debugger on the ESP32 using an ESP-prog. https://www.youtube.com/watch?v=TivyIFF-dzw. 
+How to use the PlatformIO debugger on the ESP32 using an ESP-prog. https://www.youtube.com/watch?v=TivyIFF-dzw.      
 Andreas Spiess #274 Free Inline Debugging for ESP32 and Arduino Sketches https://www.youtube.com/watch?v=psMqilqlrRQ
 
 
