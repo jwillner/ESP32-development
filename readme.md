@@ -82,3 +82,10 @@ https://www.youtube.com/watch?v=lgDu88Y411o
 atomic14
 
 If you like ESP32 audio videos - I've got a complete set on this playlist: https://www.youtube.com/playlist?list...
+
+GitHub links:
+https://github.com/atomic14/esp32_aud...
+and
+https://github.com/atomic14/esp32_aud...
+
+
