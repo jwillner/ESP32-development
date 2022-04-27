@@ -73,6 +73,12 @@ Infrastructure as a Service mit der Möglichkeit zusätzlicher managed Services.
 procloud.ch/IAAS/Schweiz
 
 
+IR Remote Control
+-----
+
+https://www.youtube.com/watch?v=8E3ltjnbV0c
+
+
 0:11 / 6:05
 
 
