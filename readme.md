@@ -95,3 +95,7 @@ and
 https://github.com/atomic14/esp32_aud...
 
 
+#252 ESP32 Ultra Low Power (ULP) core made easy in the Arduino IDE including 100$ challenge. 
+https://www.youtube.com/watch?v=-QIcUTBB7Ww.  
+
+
