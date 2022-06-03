@@ -9,6 +9,8 @@ https://randomnerdtutorials.com/projects-esp32/.
 
 Debugging with ESP32-Prog 
 --------
+
+
 https://www.instructables.com/How-to-Use-a-Debugger-on-an-ESP32/.  
 
 How to use the PlatformIO debugger on the ESP32 using an ESP-prog. https://www.youtube.com/watch?v=TivyIFF-dzw.      
